@@ -1,5 +1,2 @@
-# programador-de-sistemas-Senac-aula2
+# Aula 02 de Formação de Programadores
 
-##Olá me chamo Marshow e estou aprendendo a programar
-
-objetivos de crescimento: me formar o maximo possivel em TI e em siber seguranç
